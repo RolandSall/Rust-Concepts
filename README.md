@@ -14,8 +14,8 @@ The repository will be populated on the go. I will be sharing the exact steps on
 
 *  Basics: This directory aims to introduce the RUST language syntax: 
 
-  * How to setup an environment.
-  * Declaring variables, methods... 
-  * Loops, Operators.. 
+    *  How to setup an environment.
+    *  Declaring variables, methods... 
+    *  Loops, Operators.. 
 
   In short, the basics that defines any programming language
