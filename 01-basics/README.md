@@ -9,7 +9,11 @@ This directory will contain an installation guide and brief description on each 
 
 
 
-![image-20220922090132930](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20220922090132930.png)
+![image-01](https://github.com/RolandSall/Rust-Concepts/blob/main/01-basics/assets/img1.PNG)
+
+After installation you should be prompted with the following
+
+![image-20220922090132930](https://github.com/RolandSall/Rust-Concepts/blob/main/01-basics/assets/image-20220922090132930.png)
 
 **Cargo** is the package manager for Rust. To verify if **cargo** is installed,
 
