@@ -22,3 +22,4 @@ cargo -V
 cargo 1.63.0 (fd9c4297c 2022-07-01)
 ```
 
+*Note for the rest of this prepartion kit. I will be using IntelliJ as an IDE (make sure to install the RUST plugin)*
