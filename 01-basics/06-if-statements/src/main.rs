@@ -37,4 +37,11 @@ fn main() {
         Ordering::Greater | Ordering::Equal => println!("Can Drive"),
         _ => {}
     }
+
+    // Match example 3
+    let food = "apple";
+    match food {
+        "apple" => println!("Fruits!"),
+         &_ => {}
+    }
 }
